@@ -43,4 +43,3 @@ Intel RealSense 435i camera.
     </xacro:if>
   </xacro:macro>
 </robot>
-
